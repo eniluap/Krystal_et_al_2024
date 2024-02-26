@@ -13,12 +13,14 @@ Data are available upon request to the corresponding author (pauline@favre-univ.
 We provide code used in our paper
 
     fMRI preprocessing
+    extract Tian atlas ROIs
     functional connectivity
 
 ## Requirements
 
 - [fMRIprep](https://fmriprep.org/en/stable/)
 - [Nilearn](https://nilearn.github.io/stable/index.html)
+- [fsl](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
 - [Tian atlas 3T scale2](https://github.com/yetianmed/subcortex/blob/master/Group-Parcellation/3T/Subcortex-Only/Tian_Subcortex_S2_3T_2009cAsym.nii.gz)
 
 ## Bugs and questions
